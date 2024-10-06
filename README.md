@@ -1,6 +1,6 @@
-# 0373_A2_AlejandroLinares
+# __0373_A2_AlejandroLinares__
 
-# Evaluacion inicial
+# _Evaluacion inicial_
 
 ### 1. Qué es una página web?
 Es un documento de hipertexto que se visualiza en un navegador utilizando HTML, CSS y Javascript para diseñarlas.
