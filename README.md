@@ -15,6 +15,7 @@
     Ejemplos
 
     | Nombre | Enlace a documentacion |
+    |---------|----------------------------|
     | HTML | ![pagina](https://html.spec.whatwg.org/) |
 
 
