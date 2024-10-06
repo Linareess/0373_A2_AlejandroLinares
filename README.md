@@ -12,8 +12,13 @@ Los lenguajes de marcas son sistemas de etiquetas de apertura y cierre, su prop√
 Tabla
 
 |Nombre|Enlace a documentacion|
-|--------|---------------|
+|--------|--------------------|
 |HTML| [enlace](https://html.spec.whatwg.org/) |
+|XML| [enlace](https://www.w3.org/XML/) |
+|SMGL| [enlace](https://www.w3.org/TR/sgml-dtd/) |
+|XHTML| [enlace](https://www.w3.org/TR/xhtml1/) |
+|Markdown| [enlace](https://daringfireball.net/projects/markdown/) |
+
 
 
 
