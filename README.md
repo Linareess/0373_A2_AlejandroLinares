@@ -19,6 +19,10 @@ Tabla
 |XHTML| [enlace](https://www.w3.org/TR/xhtml1/) |
 |Markdown| [enlace](https://daringfireball.net/projects/markdown/) |
 
+### 4. ¿Que es HTML? ¿Como se esctructura?
+HTML es un lenguaje de marcas usado para estructurar y crear paginas web de forma legible para el usuario.
+
+![Estructurahtml](formatohtml.jpg)
 
 
 
