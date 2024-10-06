@@ -3,6 +3,7 @@
 # Evaluacion inicial
 
 1. Qué es una página web?
+
     R// Es un documento de hipertexto que se visualiza en un navegador utilizando HTML, CSS y Javascript para diseñarlas.
 2. ¿Qué es un servidor web?
     R// Un servidor web es un dispositivo que almacena y procesa contenido de páginas web, gracias a él es posible que los usuarios puedan visitar un sitio web.
